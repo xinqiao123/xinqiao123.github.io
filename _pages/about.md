@@ -13,7 +13,7 @@ If you're interested in exploring my academic and professional background in mor
 
 ## Recent News 
 
-*<font color=red> News! </font>* My paper "WaveTransNet: A Transformer-Based Network for Global Significant Wave Height Retrieval From Spaceborne GNSS-R Data" has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS). 
+*<font color=red> News! </font>* My paper "[WaveTransNet: A Transformer-Based Network for Global Significant Wave Height Retrieval From Spaceborne GNSS-R Data](https://ieeexplore.ieee.org/document/10609433)" has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS). 
 
 *<font color=red> News! </font>* My paper "A Hybrid CNN-Transformer Network for Global Ocean Wind Speed Retrieval From GNSS-R Data" has been accepted to IEEE/MTS OCEANS 2024 in Halifax. Look forward to seeing you there in September! 
 
