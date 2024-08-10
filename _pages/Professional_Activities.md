@@ -13,7 +13,7 @@ author_profile: true
 
 ## Mentoring
 
-* Raheel Virani, M.A.Sc. (Jan. 2023 - Aug. 2023), Memorial University, HyperspectralImage Classification Using Vision Transformer
+* Raheel Virani, M.A.Sc. (Jan. 2023 - Aug. 2023), Memorial University of Newfoundland, Hyperspectral Image Classification Using Vision Transformer
  
 ## Services
 
