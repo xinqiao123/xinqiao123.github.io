@@ -19,10 +19,12 @@ If you're interested in exploring my academic and professional background in mor
 
 *<font color=red> News! </font>* Received [Chinese Government Award for Outstanding Self-financed Students Abroad (2023)](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad), 2024.  
 
+*<font color=red> News! </font>* Received [Research Excellent Award, Graduate Student Union, Memorial University(2023)](https://www.gsumun.ca/awards-2023-24), 2024. 
+
 *<font color=red> News! </font>* Selected as a finalist in the [Best Student Poster Paper Competition at IEEE/MTS OCEANS 2024 in Singapore](https://singapore24.oceansconference.org/student-poster-competition/).
 
 
 ## Research Experience
 
 * [Ocean Remote Sensing Lab](https://www.mun.ca/engineering/ece/research/research-laboratories/radar-remote-sensing-laboratory-rrsl/), Memorial University, St. John's, PhD student, 09/2021-now
-* [Mitacs Accelerate Program], Verafin, St. John's, research intern, 09/2022-12/2022.      
+* Mitacs Accelerate Program, Verafin, St. John's, research intern, 09/2022-12/2022.
