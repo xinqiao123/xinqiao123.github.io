@@ -16,7 +16,7 @@ My research interests lie in deep learning-based methods for remote sensing data
 </p>
 
 <p style="text-align: justify;">
-If you're interested in exploring my academic and professional background in more detail, please refer to my [Curriculum Vitae](https://xinqiao123.github.io/files/Xin_Qiao_CV.pdf).
+If you're interested in exploring my academic and professional background in more detail, please refer to my <a href='https://xinqiao123.github.io/files/Xin_Qiao_CV.pdf'>Curriculum Vitae<\a>.
 </p>
 
 ## Recent News 
