@@ -7,11 +7,17 @@ redirect_from:
   - /about.html
 ---
 
+<p style="text-align: justify;">
 I am a third-year Ph.D. student in the Department of [Electrical and Computer Engineering](https://www.mun.ca/engineering/ece/) at Memorial University of Newfoundland, under the supervision of [Prof. Weimin Huang](https://www.engr.mun.ca/~weimin/). Before that, I obtained my Bachelor's degree in Engineering from Dalian Maritime University in 2018 and my Master's degree in Engineering from Zhejiang University in 2021, respectively. 
+</p>
 
+<p style="text-align: justify;">
 My research interests lie in deep learning-based methods for remote sensing data analysis, with a particular focus on hyperspectral images and GNSS-R data. I am especially interested in applying these methods to ocean remote sensing and developing innovative solutions for ocean-based climate change challenges. For instance, I am exploring how deep learning can be used to monitor and analyze kelp forests, which play a crucial role in marine ecosystems and are beneficial for absorbing carbon dioxide from the atmosphere.
+</p>
 
+<p style="text-align: justify;">
 If you're interested in exploring my academic and professional background in more detail, please refer to my [Curriculum Vitae](https://xinqiao123.github.io/files/Xin_Qiao_CV.pdf).
+</p>
 
 ## Recent News 
 
