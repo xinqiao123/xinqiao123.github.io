@@ -9,13 +9,13 @@ redirect_from:
 
 I am a third-year Ph.D. student in the Department of [Electrical and Computer Engineering](https://www.mun.ca/engineering/ece/) at Memorial University of Newfoundland, under the supervision of [Prof. Weimin Huang](https://www.engr.mun.ca/~weimin/). Before that, I obtained my Bachelor's degree in Engineering from Dalian Maritime University in 2018 and my Master's degree in Engineering from Zhejiang University in 2021, respectively. 
 
-If you're interested in exploring my academic and professional background in more detail, please refer to my [Curriculum Vitae](https://github.com/xinqiao123/xinqiao123.github.io/blob/master/files/Xin_Qiao_CV.pdf).
+If you're interested in exploring my academic and professional background in more detail, please refer to my [Curriculum Vitae](https://xinqiao123.github.io/files/Xin_Qiao_CV.pdf).
 
 ## Recent News 
 
 *<font color=red> News! </font>* My paper "[WaveTransNet: A Transformer-Based Network for Global Significant Wave Height Retrieval From Spaceborne GNSS-R Data](https://ieeexplore.ieee.org/document/10609433)" has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS). 
 
-*<font color=red> News! </font>* My paper "A Hybrid CNN-Transformer Network for Global Ocean Wind Speed Retrieval From GNSS-R Data" has been accepted to IEEE/MTS OCEANS 2024 in Halifax. Look forward to seeing you there in September! 
+*<font color=red> News! </font>* My paper "A Hybrid CNN-Transformer Network for Global Ocean Wind Speed Retrieval From GNSS-R Data" has been accepted to IEEE/MTS OCEANS 2024 in Halifax. I look forward to seeing you there in September! 
 
 *<font color=red> News! </font>* Received [Chinese Government Award for Outstanding Self-financed Students Abroad (2023)](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad), 2024.  
 
