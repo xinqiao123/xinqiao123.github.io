@@ -29,7 +29,7 @@ If you're interested in exploring my academic and professional background in mor
 
 *<font color=red> News! </font>* Received [Research Excellent Award, Graduate Student Union, Memorial University(2023)](https://www.gsumun.ca/awards-2023-24), 2024. 
 
-*<font color=red> News! </font>* Selected as a finalist in the [Best Student Poster Paper Competition at IEEE/MTS OCEANS 2024 in Singapore](https://singapore24.oceansconference.org/student-poster-competition/).
+*<font color=red> News! </font>* Selected as a finalist in the [Best Student Poster Competition at IEEE/MTS OCEANS 2024 in Singapore](https://singapore24.oceansconference.org/student-poster-competition/).
 
 
 ## Research Experience
