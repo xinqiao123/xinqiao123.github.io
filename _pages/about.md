@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am a third-year Ph.D. student in the Department of <a href='https://www.mun.ca/engineering/ece/'>Electrical and Computer Engineering</a> at Memorial University of Newfoundland, under the supervision of <a href='https://www.engr.mun.ca/~weimin/'>Prof. Weimin Huang</a>. Before that, I obtained my Bachelor's degree in Engineering from Dalian Maritime University in 2018 and my Master's degree in Engineering from Zhejiang University in 2021, respectively. 
+I am a fourth-year Ph.D. student in the Department of <a href='https://www.mun.ca/engineering/ece/'>Electrical and Computer Engineering</a> at Memorial University of Newfoundland, under the supervision of <a href='https://www.engr.mun.ca/~weimin/'>Prof. Weimin Huang</a>. Before that, I obtained my Bachelor's degree in Engineering from Dalian Maritime University in 2018 and my Master's degree in Engineering from Zhejiang University in 2021, respectively. 
 </p>
 
 <p style="text-align: justify;">
