@@ -34,5 +34,5 @@ If you're interested in exploring my academic and professional background in mor
 
 ## Research Experience
 
-* [Ocean Remote Sensing Lab](https://www.mun.ca/engineering/ece/research/research-laboratories/radar-remote-sensing-laboratory-rrsl/), Memorial University, St. John's, Canada, PhD student, 09/2021-now
+* [Radar Remote Sensing Lab](https://www.mun.ca/engineering/ece/research/research-laboratories/radar-remote-sensing-laboratory-rrsl/), Memorial University, St. John's, Canada, PhD student, 09/2021-now
 * Mitacs Accelerate Program, Verafin, St. John's, Canada, research intern, 09/2022-12/2022.
