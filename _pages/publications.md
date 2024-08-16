@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For more of my work, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=p7VY2LgAAAAJ&hl=en).
+For more details of my work, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=p7VY2LgAAAAJ&hl=en).
 
 ## Journals:  
 
