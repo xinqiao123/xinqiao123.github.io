@@ -12,7 +12,7 @@ I am a third-year Ph.D. student in the Department of <a href='https://www.mun.ca
 </p>
 
 <p style="text-align: justify;">
-My research interests lie in deep learning-based methods for remote sensing data analysis, focusing on hyperspectral images and GNSS-R data. I am especially interested in applying these methods to ocean remote sensing and developing innovative solutions for ocean-based climate change challenges. For instance, I am exploring how deep learning can be used to monitor and analyze kelp forests, which play a crucial role in marine ecosystems and are beneficial for absorbing carbon dioxide from the atmosphere.
+My **research interests** lie in deep learning-based methods for remote sensing data analysis, focusing on hyperspectral images and GNSS-R data. I am especially interested in applying these methods to ocean remote sensing and developing innovative solutions for ocean-based climate change challenges. For instance, I am exploring how deep learning can be used to monitor and analyze kelp forests, which play a crucial role in marine ecosystems and are beneficial for absorbing carbon dioxide from the atmosphere.
 </p>
 
 <p style="text-align: justify;">
