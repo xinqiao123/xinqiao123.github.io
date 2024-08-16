@@ -31,6 +31,8 @@ If you're interested in exploring my academic and professional background in mor
 
 *<font color=red> News! </font>* Selected as a finalist in the [Best Student Poster Competition at IEEE/MTS OCEANS 2024 in Singapore](https://singapore24.oceansconference.org/student-poster-competition/).
 
+*<font color=red> News! </font>* Received [Best Oral Presentations at 24th Aldrich Multidisciplinary Conference, Memorial University](https://www.gsumun.ca/aldrich-conference), 2023.
+
 
 ## Research Experience
 
