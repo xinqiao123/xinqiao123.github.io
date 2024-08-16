@@ -23,7 +23,7 @@ For more details of my work, please visit my [Google Scholar profile](https://sc
  
 ## Conferences: 
 
-  [2]  **X. Qiao** and W. Huang\*, "Spectral-Spatial-Frequency Transformer Network for Hyperspectral Image Classification," 2023 IEEE Sensors Applications Symposium (SAS), Ottawa, ON, Canada, 2023, pp. 1-6, doi: 10.1109/SAS58821.2023.10254115. [[paper]](https://ieeexplore.ieee.org/abstract/document/10254115)
+  [2]  **X. Qiao\*** and W. Huang, "Spectral-Spatial-Frequency Transformer Network for Hyperspectral Image Classification," 2023 IEEE Sensors Applications Symposium (SAS), Ottawa, ON, Canada, 2023, pp. 1-6, doi: 10.1109/SAS58821.2023.10254115. [[paper]](https://ieeexplore.ieee.org/abstract/document/10254115)
 
   [1]  **X. Qiao**, H. Wu, S. K. Roy and W. Huang\*, "Hyperspectral Image Classification Based On 3d Sharpened Cosine Similarity Operation," IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 7669-7672, doi: 10.1109/IGARSS52108.2023.10281949. [[paper]](https://ieeexplore.ieee.org/abstract/document/10281949)
 
