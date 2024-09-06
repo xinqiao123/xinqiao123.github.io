@@ -9,6 +9,7 @@ author_profile: true
 
 * IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
+* IEEE Geoscience and Remote Sensing Letters (GRSL)
 * Frontiers in Marine Science
 
 ## Mentoring
