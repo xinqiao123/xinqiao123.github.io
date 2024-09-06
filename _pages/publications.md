@@ -23,7 +23,7 @@ For more details of my work, please visit my [Google Scholar profile](https://sc
  
 ## Conferences: 
 
-  [1]  **X. Qiao** and W. Huang\*, "An Attention-Aided Convolutional Neural Network for Global Sea Surface Wind Speed Estimation From GNSS-R Data," 2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Athens, Greece, 2024. 
+  [1]  **X. Qiao** and W. Huang\*, "An Attention-Aided Convolutional Neural Network for Global Sea Surface Wind Speed Estimation From GNSS-R Data," 2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Athens, Greece, 2024, pp. 5952-5955, doi: 10.1109/IGARSS53475.2024.10642642. [[paper]](https://ieeexplore.ieee.org/document/10642642)
 
   [2]  **X. Qiao\*** and W. Huang, "Global Significant Wave Height Retrieval From Spaceborne GNSS-R Using Transformers," 2024 IEEE/MTS OCEANS, Singapore, 2024. 
 
